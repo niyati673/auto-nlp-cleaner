@@ -1,0 +1,16 @@
+dollar
+rupee
+euro
+yen
+pound
+currency
+currencies
+bitcoin
+ethereum
+cash
+money
+amount
+price
+cost
+value
+fund
